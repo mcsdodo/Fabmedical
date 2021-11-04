@@ -121,5 +121,8 @@
         }
       }
     }},
-  "defaultProject": "content-web"
+  "defaultProject": "content-web",
+  "cli": {
+    "analytics": false
+  }
 }
